@@ -44,10 +44,6 @@ export default function Login() {
             <p className="text-slate-500 dark:text-slate-400 text-sm">Sign in to your Finance Paisa account</p>
           </div>
 
-          {/* Demo credentials hint */}
-          <div className="bg-blue-50 dark:bg-blue-950/20 border border-blue-200 dark:border-blue-800 rounded-none p-3 mb-6 text-xs text-blue-700 dark:text-blue-300">
-            <strong>Demo:</strong> user@test.com / User@1234 &nbsp;|&nbsp; financepaisa7@gmail.com / Paisa@123
-          </div>
 
           <form onSubmit={handleSubmit(onSubmit)} className="space-y-5">
             <div>
