@@ -1,0 +1,12 @@
+<svg width="420" height="100" viewBox="0 0 420 100" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Finance Paisa logo white</title>
+  <desc id="desc">Finance Paisa white wordmark with FP arrow symbol</desc>
+  <g transform="translate(6 8)">
+    <path d="M18 52L48 18L66 36L88 14L102 14L70 46L52 28L34 52H18Z" fill="#FFFFFF"/>
+    <path d="M62 35L98 35L90 44H52L62 35Z" fill="#FFFFFF"/>
+    <path d="M74 44L94 64L84 74L58 48L74 44Z" fill="#FFFFFF"/>
+    <path d="M86 9L110 9L110 33L100 23L80 43L72 35L92 15L86 9Z" fill="#FFFFFF"/>
+  </g>
+  <text x="128" y="66" font-size="56" font-family="'Plus Jakarta Sans', Inter, Arial, sans-serif" font-weight="500" fill="#FFFFFF">Finance</text>
+  <text x="314" y="66" font-size="56" font-family="'Plus Jakarta Sans', Inter, Arial, sans-serif" font-weight="700" fill="#FFFFFF">Paisa</text>
+</svg>
